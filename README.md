@@ -1,4 +1,5 @@
 [![Stories in Ready](https://badge.waffle.io/Ketevann/graceshopper.png?label=ready&title=Ready)](https://waffle.io/Ketevann/graceshopper?utm_source=badge)
+[![Stories in Ready](https://badge.waffle.io/Ketevann/graceshopper.png?label=ready&title=Ready)](https://waffle.io/Ketevann/graceshopper?utm_source=badge)
 [![Stories in Ready](https://badge.waffle.io/sokmeann/graceshopper.png?label=ready&title=Ready)](https://waffle.io/sokmeann/graceshopper)
 # Hi, I'm bones
 
