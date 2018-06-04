@@ -1,3 +1,4 @@
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/Paal-org/graceShopper.png?columns=all)](https://waffle.io/Paal-org/graceShopper?utm_source=badge)
 [![Stories in Ready](https://badge.waffle.io/Ketevann/graceshopper.png?label=ready&title=Ready)](https://waffle.io/Ketevann/graceshopper?utm_source=badge)
 [![Stories in Ready](https://badge.waffle.io/Ketevann/graceshopper.png?label=ready&title=Ready)](https://waffle.io/Ketevann/graceshopper?utm_source=badge)
 [![Stories in Ready](https://badge.waffle.io/sokmeann/graceshopper.png?label=ready&title=Ready)](https://waffle.io/sokmeann/graceshopper)
